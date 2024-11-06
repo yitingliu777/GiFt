@@ -1,3 +1,5 @@
+# The Power of Graph Signal Processing for Chip Placement Acceleration
+
 ## Flow
 1. Transform the netlist to a sparse adjacency matrix and save it to .npz file.
    1. The paper use clique model. In fact, other models may also work.
